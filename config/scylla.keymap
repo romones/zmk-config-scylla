@@ -138,12 +138,12 @@
 
         Gaming {
             bindings = <
-&kp ESC    &kp N1  &kp N2  &kp N3           &kp N4      &kp N5     &kp N6     &kp N7    &kp N8     &kp N9   &kp N0   &trans
-&kp F11    &kp Q   &kp W   &kp E            &kp R       &kp T      &kt F13    &kt F14   &kt F15    &kt F16  &kt F17  &trans
-&kp F10    &kp A   &kp S   &kp D            &kp F       &kp G      &trans     &trans    &trans     &trans   &trans   &trans
-&kp LSHFT  &kp Z   &kp X   &kp C            &kp V       &kp B      &kp N      &kp M     &trans     &trans   &trans   &trans
-                           &kp KP_NUMBER_0  &kp SPACE   &kp F9     &kp LCTRL  &kp LALT  &kp LSHFT
-                                            &kp INSERT  &kp LCTRL  &trans     &trans
+&kp ESC    &kp N1  &kp N2  &kp N3  &kp N4      &kp N5     &kp N6     &kp N7    &kp N8     &kp N9   &kp N0   &trans
+&kp F11    &kp Q   &kp W   &kp E   &kp R       &kp T      &kt F13    &kt F14   &kt F15    &kt F16  &kt F17  &trans
+&kp F10    &kp A   &kp S   &kp D   &kp F       &kp G      &trans     &trans    &trans     &trans   &trans   &trans
+&kp LSHFT  &kp Z   &kp X   &kp C   &kp V       &kp B      &kp N      &kp M     &trans     &trans   &trans   &trans
+                           &kp N0  &kp SPACE   &kp F9     &kp LCTRL  &kp LALT  &kp LSHFT
+                                   &kp INSERT  &kp LCTRL  &trans     &trans
             >;
         };
     };
